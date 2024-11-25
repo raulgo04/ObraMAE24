@@ -25,4 +25,4 @@
 
 ## Licencia
 
-- **CC-BY-SA 4.0.**Lea el archivo [License.md](License.md) para saber más especificaciones sobre ella.
+- **CC-BY 4.0.**Lea el archivo [License.md](License.md) para saber más especificaciones sobre ella.
