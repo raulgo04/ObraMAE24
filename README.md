@@ -43,13 +43,13 @@ Es una obra digital apartir de 12 proyectos educomunicativos audiovisuales para 
 ## Agradecimiento
 <br/>
 
-A todos los alumnos participantes de 3er curso del Grado de Periodismo de la Universidad Complutense de Madrid de la asignatura de Educación y Medios Audiovisuales durante el primer cuatrimestre del curso 2024-2025.
-A Elisa Cuesta y David Mingorance por la ayuda prestada durante la clase práctica sobre visualización de datos creativa.
-A Amazon por la financiación dentro del programa Code for the Planet 2024 a través de la participación por la Asociación de Jóvenes Profesionales por el Patrimonio Cultural (AJPC)
-A todo el equipo del proyecto Científicos en las artes y artistas en la ciencia: hitos históricos en el archivo de MediaLab Madrid a través de una propuesta expositiva y educativa (FCT-22-17889) por permitirnos exponer la obra durante la exposición en la Facultad de Bellas Artes en abril y mayo de 2025.
+- A todos los alumnos participantes de 3er curso del Grado de Periodismo de la Universidad Complutense de Madrid de la asignatura de Educación y Medios Audiovisuales durante el primer cuatrimestre del curso 2024-2025.
+- A Elisa Cuesta y David Mingorance por la ayuda prestada durante la clase práctica sobre visualización de datos creativa.
+-  Amazon por la financiación dentro del programa Code for the Planet 2024 a través de la participación por la Asociación de Jóvenes Profesionales por el Patrimonio Cultural (AJPC)
+- A todo el equipo del proyecto Científicos en las artes y artistas en la ciencia: hitos históricos en el archivo de MediaLab Madrid a través de una propuesta expositiva y educativa (FCT-22-17889) por permitirnos exponer la obra durante la exposición en la Facultad de Bellas Artes en abril y mayo de 2025.
 
 <br/>
 
 ## Licencia
 
-- **CC-BY 4.0.**Lea el archivo [License.md](License.md) para saber más especificaciones sobre ella.
+**CC-BY 4.0.**Lea el archivo [License.md](License.md) para saber más especificaciones sobre ella.
