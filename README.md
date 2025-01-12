@@ -6,7 +6,8 @@ Es una obra digital apartir de 12 proyectos educomunicativos audiovisuales para 
 
 <br/>
 
-<img src="assets/img/index_readme300.JPG" width="200%" height="200%">
+<img src="assets/img/ejemplo/indexhtml.PNG" width="200%" height="200%">
+<img src="assets/img/ejemplo/obra.PNG" width="200%" height="200%">
 
 ## Temas
 <br/>
