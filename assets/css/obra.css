@@ -30,8 +30,8 @@ body {
 /* Outer container for each flip card */
 .flip-card {
     background-color: transparent;
-    width: 300px;
-    height: 400px;
+    width: 150px;
+    height: 200px;
     margin: 20px; /* Space around each card */
     perspective: 1000px; /* Defines the 3D perspective */
 }
