@@ -99,8 +99,9 @@ body {
 
 /* Title on the back side */
 .flip-card-back h6 {
-    margin-bottom: 10px;
-    font-size: 0.6em;
+  margin-top: -10px;
+  margin-bottom: 8px;
+  font-size: 0.6em;
 }
 
 /* Description text on the back side */
