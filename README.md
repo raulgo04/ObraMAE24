@@ -2,7 +2,7 @@
 ## Descripción general
 <br/>
 
-Es una obra digital apartir de 12 proyectos educomunicativos audiovisuales para la alfabetización mediática sobre diferentes aspectos del cambio climático realizados por el grupo de estudiantes de 3er curso del Grado de Periodismo de la Universidad Complutense de Madrid de la asignatura de Educación y Medios Audiovisuales durante el primer cuatrimestre del curso 2024-2025. Esta obra emana de la visión futurista que mostraba la obra de [Pig City](https://www.mvrdv.com/projects/134/pig-city) del estudio MVRDV y que se expuso en el programa Banquete 03 de Medialab Madrid.
+Es una obra digital apartir de 12 proyectos educomunicativos audiovisuales para la alfabetización mediática sobre diferentes aspectos del cambio climático realizados por el grupo de estudiantes de 3er curso del Grado de Periodismo de la Universidad Complutense de Madrid de la asignatura de Educación y Medios Audiovisuales durante el primer cuatrimestre del curso 2024-2025. Esta obra emana de la visión futurista que mostraba la obra de [Pig City](https://www.mvrdv.com/projects/134/pig-city) del estudio MVRDV y que se expuso en el programa[Banquete 03 de Medialab Madrid](https://archivomedialabmadrid.org/pdfjs/web/viewer.html?file=https://archivomedialabmadrid.org/wp-content/uploads/2024/04/MLM_MVRDV_esp_snp_crr.pdf)
 
 La obra puede ser consultada en este enlace: https://raulgo04.github.io/ObraMAE24/assets/html/index.html
 
