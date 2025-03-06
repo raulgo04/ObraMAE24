@@ -79,9 +79,9 @@ body {
 
 /* Title on the front side */
 .flip-card-front h2 {
-    padding: 15px;
+    padding: 10px;
     font-size: 1em;
-    color: #333; /* Dark gray color */
+    color: white; /* White text */
 }
 
 /* Back side styling */
