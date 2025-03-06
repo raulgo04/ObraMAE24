@@ -80,7 +80,7 @@ body {
 /* Title on the front side */
 .flip-card-front h2 {
     padding: 15px;
-    font-size: 1.5em;
+    font-size: 1em;
     color: #333; /* Dark gray color */
 }
 
@@ -98,14 +98,14 @@ body {
 }
 
 /* Title on the back side */
-.flip-card-back h2 {
+.flip-card-back h6 {
     margin-bottom: 15px;
-    font-size: 1.5em;
+    font-size: 0.6em;
 }
 
 /* Description text on the back side */
 .flip-card-back p {
-    font-size: 1em;
+    font-size: 0.5em;
     margin-bottom: 20px;
 }
 
