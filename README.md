@@ -8,8 +8,8 @@ La obra puede ser consultada en este enlace: https://raulgo04.github.io/ObraMAE2
 
 <br/>
 
-<img src="assets/img/ejemplo/indexhtml.PNG" width="200%" height="200%">
-<img src="assets/img/ejemplo/obra.PNG" width="200%" height="200%">
+<img src="assets/img/common/indexhtml.PNG" width="200%" height="200%">
+<img src="assets/img/common/obra.PNG" width="200%" height="200%">
 
 ## Temas
 <br/>
