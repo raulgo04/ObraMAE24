@@ -60,7 +60,7 @@ The digital work can be accessed at this link: https://raulgo04.github.io/ObraMA
 
 - To all participating third-year Journalism Degree students at Complutense University of Madrid enrolled in the "Education and Audiovisual Media" course during the first semester of 2024-2025.
 - To Elisa Cuesta and David Mingorance for their assistance during the practical class on creative data visualization.
-- To Amazon Future Engineers for funding this work as part of Meet and Code: Code for the Planet 2024 program and the European Union's Code Week through AJPC.
+- To Amazon Future Engineers for funding this work as part of Meet and Code: Code for the Planet 2024 program and the European Union's Code Week through the Asociación de Jóvenes Profesionales por el Patrimonio Cultural (AAJPC).
 - To the entire team behind the project "Scientists in Art and Artists in Science: Historical Milestones in Medialab Madrid's Archive Through an Exhibition Proposal" (FCT-22-17889) for allowing us to showcase this work during its exhibition at the Faculty of Fine Arts in April-May 2025.
 
 <br/>
