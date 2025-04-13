@@ -37,7 +37,7 @@ body {
 }
 
 .flip-card:hover {
-    transform: scale(2); /* Cambia el tamaño al pasar el cursor */
+    transform: scale(1.5); /* Cambia el tamaño al pasar el cursor */
 }
 
 .flip-card:hover ~ .flip-card {
