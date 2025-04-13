@@ -1,3 +1,6 @@
+
+**Spanish Version (for the English version please scroll down)**
+
 # Cambio climático: un análisis educomunicativo
 ## Descripción general
 <br/>
