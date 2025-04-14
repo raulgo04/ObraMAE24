@@ -36,14 +36,6 @@ body {
     perspective: 1000px; /* Defines the 3D perspective */
 }
 
-.flip-card:hover {
-    transform: scale(1.5); /* Cambia el tamaño al pasar el cursor */
-}
-
-.flip-card:hover ~ .flip-card {
-    opacity: 0; /* Reduce la opacidad de las demás tarjetas */
-}
-
 /* Inner container that will be flipped */
 .flip-card-inner {
     position: relative;
